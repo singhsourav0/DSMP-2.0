@@ -11,7 +11,7 @@ This GitHub repository serves as the central hub for the DSMP 2.0 curriculum, pr
 * **Capstone Project:** A comprehensive real-world project to apply your knowledge.
 * **Resources:** Additional materials and project resources. 
 
-## Badges
+## Frameworks
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1F425F?logo=numpy&logoColor=white)](https://numpy.org/)
